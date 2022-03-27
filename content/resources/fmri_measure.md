@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: da3f4b40-165c-5fad-8329-81652a9c1da4
 resourcetype: Document
 title: fmri_measure.pdf
 uid: c2a11772-0419-1bee-7910-e37d1fcc732b
