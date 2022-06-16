@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the assignments for the course.
+  Assignments consist of presentations on assigned papers, daily synopses of these
+  presented papers, and a 10-15 page research paper (optional for undergraduates,
+  required for graduates).
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
