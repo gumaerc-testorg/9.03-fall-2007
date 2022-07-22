@@ -6,6 +6,7 @@ file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/b883895601d123
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture04.pdf
 uid: b8838956-01d1-230a-4b93-7b4e960ec748
 ---
 Lecture notes on skill memory, non-declarative memory, and properties of perceptual-motor learning.
-

@@ -5,6 +5,7 @@ file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/a9a98394927cb6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture21.pdf
 uid: a9a98394-927c-b679-fa82-905c4c3df45c
 ---
 Lecture notes on observational learning, mirror neurons, and imitation.
-

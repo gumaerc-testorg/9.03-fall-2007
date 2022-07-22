@@ -5,6 +5,7 @@ file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/b41742b1df148e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture03.pdf
 uid: b41742b1-df14-8e2b-01b5-79aa1978645e
 ---
 Lecture notes on neuroimaging techniques for studying learning and memory.
-
