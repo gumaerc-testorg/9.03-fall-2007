@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on neuroimaging techniques for studying learning and memory.
 file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/b41742b1df148e2b01b579aa1978645e_lecture03.pdf
+file_size: 632263
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
