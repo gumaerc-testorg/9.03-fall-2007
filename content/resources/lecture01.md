@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the history of work in the area of learning and memory,
   how memory works, different kinds of memory, and memory storage.
-file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/1372d36b1a79873a1440fce61811ec31_lecture01.pdf
+file: /ol-ocw-studio-app/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/1372d36b1a79873a1440fce61811ec31_lecture01.pdf
 file_size: 23675
 file_type: application/pdf
 learning_resource_types:
