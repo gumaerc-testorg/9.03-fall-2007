@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on sensory, short-term, and working memory.
-file: /ol-ocw-studio-app/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/d0cbafcbc280aca150397cfbedd7bb51_lecture06.pdf
+file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/d0cbafcbc280aca150397cfbedd7bb51_lecture06.pdf
 file_size: 663827
 file_type: application/pdf
 learning_resource_types:

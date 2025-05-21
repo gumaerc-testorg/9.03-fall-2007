@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to learning and memory, a definition
   of memory, factors that influence learning, and the function of cells and synapses.
-file: /ol-ocw-studio-app/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/4aed268376163983ca1c4f5aa7d1e93a_lecture02.pdf
+file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/4aed268376163983ca1c4f5aa7d1e93a_lecture02.pdf
 file_size: 612545
 file_type: application/pdf
 learning_resource_types:
