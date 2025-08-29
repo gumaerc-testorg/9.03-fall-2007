@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on observational learning, mirror neurons, and imitation.
-file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/a9a98394927cb679fa82905c4c3df45c_lecture21.pdf
+file: /ol-ocw-studio-app/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/a9a98394927cb679fa82905c4c3df45c_lecture21.pdf
 file_size: 643042
 file_type: application/pdf
 learning_resource_types:
