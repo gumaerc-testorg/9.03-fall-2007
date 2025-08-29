@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on functional Magnetic Resonance Imaging (fMRI) and what
   it measures.
-file: /courses/9-03-neural-basis-of-learning-and-memory-fall-2007/c2a1177204191bee7910e37d1fcc732b_fmri_measure.pdf
+file: /ol-ocw-studio-app/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/c2a1177204191bee7910e37d1fcc732b_fmri_measure.pdf
 file_size: 27120
 file_type: application/pdf
 learning_resource_types: []
