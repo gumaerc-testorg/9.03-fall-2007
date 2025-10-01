@@ -11,6 +11,6 @@ uid: 5aaf9b62-6729-3b0a-53f9-364289fd8e44
 Online References
 -----------------
 
-[The Whole Brain](http://www.med.harvard.edu/AANLIB/home.html) atlas is a site that is hosted by the Harvard Medical School which displays pictures from MRI to fMRI in various disease states.
+{{% resource_link "68852053-62bc-4eee-9705-80218c9a9683" "The Whole Brain" %}} atlas is a site that is hosted by the Harvard Medical School which displays pictures from MRI to fMRI in various disease states.
 
-[MIT's Molecular Biology Hypertext](http://web.mit.edu/esgbio/www/)
+{{% resource_link "4793cb27-0c25-42a2-a8ba-e7b05a33bc87" "MIT's Molecular Biology Hypertext" %}}
