@@ -411,7 +411,7 @@ Fogassi, Leonardo, et al. "Parietal Lobe: From Action Organization to Intention 
 
 Aziz-Zadeh, Lisa, Lisa Koski, Eran Zaidel, John Mazziotta, and Marco Iacoboni. "Lateralization of the Human Mirror Neuron System." _J Neurosci_ 26 (2006): 2964-2970.
 
-[NOVA Mirror Neuron Clip](http://www.pbs.org/wgbh/nova/sciencenow/video/3204/i01.html)
+{{% resource_link "105bc597-b472-46fe-979b-f8e278ef01ac" "NOVA Mirror Neuron Clip" %}}
 
 
 {{< tdclose >}}
